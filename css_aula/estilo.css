@@ -1,0 +1,12 @@
+p{
+    color: aqua;
+}
+.card1{
+    width: 250px;
+    color: black;
+    height: 250px;
+    position: absolute;
+    right: 25%;
+    bottom: 20%;
+    background-color: black;
+}
